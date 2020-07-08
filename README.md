@@ -1,6 +1,7 @@
 # weeklyplannerr
 
 A new Flutter application.
+This application uses SqlLite database to save notes of the users.
 
 ## Getting Started
 
