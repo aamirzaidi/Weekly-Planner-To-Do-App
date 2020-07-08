@@ -1,6 +1,6 @@
 # weeklyplannerr
 
-A new Flutter application.
+A Modern UI to do app where we get to save tasks for the whole week and see the progress that we have done.
 This application uses SqlLite database to save notes of the users.
 
 ## Getting Started
